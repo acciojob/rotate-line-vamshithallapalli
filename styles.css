@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+/* Line appearance and centering */
+#line {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 2px;
+  background-color: #000000;
+}
+
